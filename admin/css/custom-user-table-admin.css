@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ #user-table-filters {
+     margin-bottom: 20px;
+ }
+
+#custom-user-datatable_wrapper select#dt-length-0 {
+    width: 50px;
+}
